@@ -1,0 +1,9 @@
+{
+  "football":{
+    "apiKey":"ADD YOUR APIKEY",
+    "endpoint":"http://api.football-data.org/v2/competitions/2000/matches"
+  },
+  "slack":{
+    "webhook":"ADD YOUR SLACK WEBHOOK"
+  }
+}
